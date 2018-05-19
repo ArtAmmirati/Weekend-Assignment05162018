@@ -1,0 +1,11 @@
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\bin\Debug\Tutorial9-5 Multiform Practice.exe.config
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\bin\Debug\Tutorial9-5 Multiform Practice.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\bin\Debug\Tutorial9-5 Multiform Practice.pdb
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\9-5 Multiform Practice.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\Tutorial9_5_Multiform_Practice.MainForm.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\Tutorial9_5_Multiform_Practice.MessageForm.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\Tutorial9_5_Multiform_Practice.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\9-5 Multiform Practice.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\9-5 Multiform Practice.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\Tutorial9-5 Multiform Practice.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\obj\Debug\Tutorial9-5 Multiform Practice.pdb

@@ -1,0 +1,9 @@
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\bin\Debug\Cell Phone Inventory.pdb
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csprojResolveAssemblyReference.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Form1.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell_Phone_Inventory.Properties.Resources.resources
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.GenerateResource.Cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.csproj.CoreCompileInputs.cache
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.exe
+C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\obj\x86\Debug\Cell Phone Inventory.pdb

@@ -2,17 +2,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-1Coin Toss", "Student Sample Programs\Chap09\Coin Toss\Coin Toss\9-1Coin Toss.csproj", "{26841870-D2DD-4170-8F96-B64A82F48596}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-1Coin Toss", "Coin Toss\9-1Coin Toss.csproj", "{26841870-D2DD-4170-8F96-B64A82F48596}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-2Cell Phone Test", "Student Sample Programs\Chap09\Cell Phone Test\Cell Phone Test\9-2Cell Phone Test.csproj", "{64C65300-A531-4F7D-8281-BE19A5141109}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-2Cell Phone Test", "..\Cell Phone Test\Cell Phone Test\9-2Cell Phone Test.csproj", "{64C65300-A531-4F7D-8281-BE19A5141109}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-3Account Simulator", "Student Sample Programs\Chap09\Account Simulator\Account Simulator\9-3Account Simulator.csproj", "{C2BE4796-88DF-4D63-8845-95AC4436E1EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-3Account Simulator", "..\Account Simulator\Account Simulator\9-3Account Simulator.csproj", "{C2BE4796-88DF-4D63-8845-95AC4436E1EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-4Cell Phone Inventory", "Student Sample Programs\Chap09\Cell Phone Inventory\Cell Phone Inventory\9-4Cell Phone Inventory.csproj", "{BB6479B4-12F3-4E77-9455-C54D1C94E39B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-4Cell Phone Inventory", "..\Cell Phone Inventory\Cell Phone Inventory\9-4Cell Phone Inventory.csproj", "{BB6479B4-12F3-4E77-9455-C54D1C94E39B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-5 Multiform Practice", "Student Sample Programs\Chap09\Coin Toss\Tutorial9-5 Multiform Practice\9-5 Multiform Practice.csproj", "{9A61FEBD-CCF7-4C07-91B4-529C55A11E0E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-5 Multiform Practice", "Tutorial9-5 Multiform Practice\9-5 Multiform Practice.csproj", "{9A61FEBD-CCF7-4C07-91B4-529C55A11E0E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-6 Food Facts", "Student Sample Programs\Chap09\Coin Toss\9-6 Food Facts\9-6 Food Facts.csproj", "{86C90776-731F-47D2-BB5F-11D877D11073}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-6 Food Facts", "9-6 Food Facts\9-6 Food Facts.csproj", "{86C90776-731F-47D2-BB5F-11D877D11073}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
