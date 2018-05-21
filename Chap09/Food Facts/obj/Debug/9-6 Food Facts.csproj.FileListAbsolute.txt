@@ -9,3 +9,14 @@ C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\9-6 Food Fa
 C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\9-6 Food Facts\obj\Debug\9-6 Food Facts.csproj.CoreCompileInputs.cache
 C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\9-6 Food Facts\obj\Debug\9-6 Food Facts.exe
 C:\Users\MTCStudent\Desktop\Student Sample Programs\Chap09\Coin Toss\9-6 Food Facts\obj\Debug\9-6 Food Facts.pdb
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\bin\Debug\9-6 Food Facts.exe.config
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\bin\Debug\9-6 Food Facts.exe
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\bin\Debug\9-6 Food Facts.pdb
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\9-6 Food Facts.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\_9_6_Food_Facts.mainForm.resources
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\_9_6_Food_Facts.NutritionForm.resources
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\_9_6_Food_Facts.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\9-6 Food Facts.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\9-6 Food Facts.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\9-6 Food Facts.exe
+C:\Users\Cyberadmin\Desktop\Weekend-Assignment05162018\Chap09\Food Facts\obj\Debug\9-6 Food Facts.pdb

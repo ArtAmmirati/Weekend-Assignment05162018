@@ -41,6 +41,8 @@ namespace _9_6_Food_Facts
                 nutriForm.label7.Text = "9";
                 nutriForm.label8.Text = "67";
             }
+            nutriForm.ShowDialog();
+        
         }
          
         
